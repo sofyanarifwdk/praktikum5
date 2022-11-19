@@ -2,12 +2,12 @@
     from texttable import Texttable
     table = Texttable()
     # variable menggunakan list
-no = 0
-nama = []
-nim = []
-nilai_tugas = []
-nilai_uts = []
-nilai_uas = []
+    no = 0
+    nama = []
+    nim = []
+    nilai_tugas = []
+    nilai_uts = []
+    nilai_uas = []
 
     # Buat sebuah perulangan, tujuannya karena kita ingin memasukkan beberapa data sekaligus.
     # Disini saya pakai while, dan di dalam perulangan inilah kita masukkan perintah untuk Input data yang kita butuhkan.
