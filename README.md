@@ -1,3 +1,10 @@
+> - [Flowchart](#flowchart)
+> - [Latihan Membuat list & perulangan nilai akhir mahasiswa](#latihan-membuat-list--perulangan-nilai-akhir-mahasiswa)
+> - [Output Program](#output-program)
+### Flowchart
+<img src="img/flowchart.PNG" alt="Flowchart" width="600" height="800">
+
+### Latihan Membuat list & perulangan nilai akhir mahasiswa
     # menggunakan modul Texttable
     from texttable import Texttable
     table = Texttable()
@@ -42,3 +49,6 @@
 
     # Dan pada bagian terahir dari script ini kita masukkan perintah untuk mencetak hasilnya yaitu
     print(table.draw())
+
+### Output Program
+<img src="img/output.PNG" alt="Flowchart" width="800" height="450">
