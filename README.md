@@ -51,4 +51,4 @@
     print(table.draw())
 
 ### Output Program
-<img src="img/output.PNG" alt="Flowchart" width="800" height="450">
+<img src="img/output.PNG" alt="Flowchart" width="1500" height="450">
